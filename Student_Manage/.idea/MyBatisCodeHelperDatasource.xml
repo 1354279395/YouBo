@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MyBatisCodeHelperDatasource">
+    <option name="activeDatabaseInfo">
+      <NewDatabaseInfo>
+        <option name="database" value="message" />
+        <option name="databaseType" value="MySql" />
+        <option name="password" value="wl968640" />
+        <option name="url" value="localhost:3306" />
+        <option name="userName" value="root" />
+      </NewDatabaseInfo>
+    </option>
+    <option name="databaseInfos">
+      <list>
+        <NewDatabaseInfo>
+          <option name="database" value="message" />
+          <option name="databaseType" value="MySql" />
+          <option name="password" value="wl968640" />
+          <option name="url" value="localhost:3306" />
+          <option name="userName" value="root" />
+        </NewDatabaseInfo>
+      </list>
+    </option>
+    <option name="projectProfile">
+      <ProjectProfile>
+        <option name="addSerializeUid" value="true" />
+        <option name="javaMapperPackage" value="com.tulun.dao" />
+        <option name="javaMapperPath" value="$PROJECT_DIR$/../webProject/src/main/java" />
+        <option name="javaModelPackage" value="com.tulun.bean" />
+        <option name="javaModelPath" value="$PROJECT_DIR$/../webProject/src/main/java" />
+        <option name="lastDatabaseCrudChooseModuleName" value="webProject" />
+        <option name="modelAddToString" value="true" />
+        <option name="moduleNameToPackageAndPathMap">
+          <map>
+            <entry key="webProject">
+              <value>
+                <UserPackageAndPathInfoByModule>
+                  <option name="javaMapperPackage" value="com.tulun.dao" />
+                  <option name="javaMapperPath" value="$PROJECT_DIR$/../webProject/src/main/java" />
+                  <option name="javaModelPacakge" value="com.tulun.bean" />
+                  <option name="javaModelPath" value="$PROJECT_DIR$/../webProject/src/main/java" />
+                  <option name="xmlPackage" value="mapperxml" />
+                  <option name="xmlPath" value="$PROJECT_DIR$/../webProject/src/main/resource" />
+                </UserPackageAndPathInfoByModule>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="tableGenerateConfigs">
+          <map>
+            <entry key="message:admin0">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="" />
+                  <option name="javaModelName" value="Admin0" />
+                  <option name="moduleName" value="webProject" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="message:clazz">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="" />
+                  <option name="javaModelName" value="Clazz" />
+                  <option name="moduleName" value="webProject" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="message:grade">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="" />
+                  <option name="javaModelName" value="Grade" />
+                  <option name="moduleName" value="webProject" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="message:student">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="" />
+                  <option name="javaModelName" value="Student" />
+                  <option name="moduleName" value="webProject" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="message:teacher">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="" />
+                  <option name="javaModelName" value="Teacher" />
+                  <option name="moduleName" value="webProject" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="xmlMapperPackage" value="mapperxml" />
+        <option name="xmlMapperPath" value="$PROJECT_DIR$/../webProject/src/main/resource" />
+      </ProjectProfile>
+    </option>
+  </component>
+</project>
